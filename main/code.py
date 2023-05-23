@@ -2,7 +2,7 @@ import json
 from datetime import date
 
 
-with open(r"C:\Users\Денис\PycharmProjects\coursework3\operations.json", "r", encoding="utf-8") as file:
+with open(r"C:\Users\Денис\course_work3_v2.0\operations.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 
